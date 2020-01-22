@@ -4,6 +4,8 @@ Train a neural network in your browser to recognize Paper, Rock and Scissors ges
 
 Try out the [Live Demo](https://colinskow.github.io/webcam-prs)!
 
+[Live Demo](https://johnhmejia.github.io/webcam-rps)!
+
 Originally a coding tutorial presented at the [Las Vegas School of AI](https://www.meetup.com/Las-Vegas-School-of-AI/) Meetup.
 
 ## Development server
